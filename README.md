@@ -1,7 +1,7 @@
 ## Multi-omic profiling reveals dynamics of the phased progression of pluripotency
 
 #### Description
-This Repo is to host the multi-omic data generated for the study Yang et al. (2019) Cell Systems 8(5):427-445.e10. [Fulltext](https://www.sciencedirect.com/science/article/pii/S2405471219301152).
+This Repo is to host the multi-omic data generated for the study Yang et al. (2019) ***Cell Systems*** 8(5):427-445.e10. [Fulltext](https://www.sciencedirect.com/science/article/pii/S2405471219301152).
 
 It contains four matrices including phosphoproteome (`ESC.phos`), transcriptome (`ESC.mRNA`), proteome (`ESC.prot`), and epigenome (`ESC.epi`).
 
